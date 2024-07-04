@@ -40,6 +40,10 @@ Durante o desenvolvimento deste portfólio, pude aprender e aplicar os seguintes
 2. Explore as diferentes seções do site para conhecer mais sobre mim e meus projetos.
 3. Utilize o formulário de contato para enviar uma mensagem diretamente para o meu email.
 
+## Link para o Projeto
+
+- [Portfolio - Minha Jornada Tech](https://portfolio-minha-jornada-tech.vercel.app/)
+
 ## Tecnologias
 
 <div>
